@@ -1,0 +1,4 @@
+[submodule "jdupes"]
+	path = jdupes
+	url = https://github.com/jbruchon/jdupes.git
+	branch = master
